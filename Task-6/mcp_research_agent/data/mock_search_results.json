@@ -1,0 +1,10 @@
+{
+  "langgraph": [
+    "LangGraph is a framework for building stateful AI agents.",
+    "LangGraph supports cycles, persistence and tool calling."
+  ],
+  "mcp": [
+    "MCP stands for Model Context Protocol.",
+    "MCP provides a standard interface for tools and resources."
+  ]
+}
