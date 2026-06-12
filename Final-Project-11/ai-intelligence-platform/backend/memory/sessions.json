@@ -1,0 +1,40 @@
+{
+  "test-thread-99": [
+    {
+      "role": "user",
+      "content": "What is Google Antigravity?"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a grounded response based on your uploaded knowledge base (Local Heuristic Fallback).\n\n[Local Fallback Mode]\n\nSource: temp_test_kb.txt\nExcerpt: Google Antigravity is a secret project developed by the Google DeepMind team for agentic coding. It can solve complex coding tasks autonomously....\n\nQuestion: What is Google Antigravity?\nSummary: The uploaded material above matches your query.\n\n[System Alert: running in Local Fallback mode due to missing GOOGLE_API_KEY]"
+    },
+    {
+      "role": "user",
+      "content": "I prefer using python for everything"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a grounded response based on your uploaded knowledge base (Local Heuristic Fallback).\n\n[Local Fallback Mode]\n\nSource: temp_test_kb.txt\nExcerpt: Google Antigravity is a secret project developed by the Google DeepMind team for agentic coding. It can solve complex coding tasks autonomously....\n\nQuestion: I prefer using python for everything\nSummary: The uploaded material above matches your query.\n\n[System Alert: running in Local Fallback mode due to missing GOOGLE_API_KEY]\nRemembered preferences or facts: I prefer using python for everything"
+    }
+  ],
+  "thread-test": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a grounded response based on your uploaded knowledge base (Local Heuristic Fallback).\n\n[Local Fallback Mode]\n\nSource: data_handoff_agreement.pdf\nExcerpt: PDF upload saved successfully. Text extraction is not enabled in this local mode, so retrieval will use the filename as context....\n\nQuestion: hello\nSummary: The uploaded material above matches your query.\n\n[System Alert: running in Local Fallback mode due to missing GOOGLE_API_KEY]"
+    }
+  ],
+  "thread-9717": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a grounded response based on your uploaded knowledge base (Local Heuristic Fallback).\n\n[Local Fallback Mode]\n\nSource: data_handoff_agreement.pdf\nExcerpt: PDF upload saved successfully. Text extraction is not enabled in this local mode, so retrieval will use the filename as context....\n\nQuestion: hi\nSummary: The uploaded material above matches your query.\n\n[System Alert: running in Local Fallback mode due to missing GOOGLE_API_KEY]"
+    }
+  ]
+}

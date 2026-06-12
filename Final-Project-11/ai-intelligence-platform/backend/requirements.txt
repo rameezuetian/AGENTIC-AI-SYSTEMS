@@ -1,0 +1,54 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LangGraph
+langgraph
+
+# Google Gemini
+langchain-google-genai
+
+# Vector Database
+chromadb
+
+# Embeddings & Vector Search
+faiss-cpu
+
+# Document Loaders
+pypdf
+pandas
+unstructured
+
+# Memory & Persistence
+aiosqlite
+sqlalchemy
+
+# MCP
+mcp
+langchain-mcp-adapters
+
+# Observability
+langsmith
+
+# Utilities
+tiktoken
+numpy
+requests
+
+# Streaming & Async
+aiofiles
+httpx
+
+# Data Validation
+pydantic
+
+# Logging
+rich
